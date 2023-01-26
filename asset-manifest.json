@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/jb4PrRy4hCJ8PB8b/capstone.git/static/css/main.ed17b81e.css",
+    "main.js": "/jb4PrRy4hCJ8PB8b/capstone.git/static/js/main.e9025eb3.js",
+    "static/media/dominoes.png": "/jb4PrRy4hCJ8PB8b/capstone.git/static/media/dominoes.5d1c84abcc59ace6894a.png",
+    "static/media/img2.png": "/jb4PrRy4hCJ8PB8b/capstone.git/static/media/img2.8bfad2cf76b481f5c99f.png",
+    "static/media/img4.png": "/jb4PrRy4hCJ8PB8b/capstone.git/static/media/img4.f66ba3010d8b87ca94f1.png",
+    "static/media/img1.png": "/jb4PrRy4hCJ8PB8b/capstone.git/static/media/img1.a1c0176a77d580d00568.png",
+    "static/media/img3.png": "/jb4PrRy4hCJ8PB8b/capstone.git/static/media/img3.a6fc14131147abdb61cb.png",
+    "static/media/handshake3.svg": "/jb4PrRy4hCJ8PB8b/capstone.git/static/media/handshake3.7ec7ba7ed1dff4f3db4eea3c4e439b64.svg",
+    "static/media/logo.svg": "/jb4PrRy4hCJ8PB8b/capstone.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/jb4PrRy4hCJ8PB8b/capstone.git/index.html",
+    "main.ed17b81e.css.map": "/jb4PrRy4hCJ8PB8b/capstone.git/static/css/main.ed17b81e.css.map",
+    "main.e9025eb3.js.map": "/jb4PrRy4hCJ8PB8b/capstone.git/static/js/main.e9025eb3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed17b81e.css",
+    "static/js/main.e9025eb3.js"
+  ]
+}
