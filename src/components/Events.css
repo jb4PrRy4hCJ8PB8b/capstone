@@ -1,0 +1,17 @@
+.location-info{
+    margin-top: 70px;
+}
+
+.seasonal{
+    margin-top: 40px;
+}
+
+.calendar{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.upcoming-events{
+    margin-top: 50px;
+}

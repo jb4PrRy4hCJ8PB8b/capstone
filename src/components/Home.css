@@ -1,0 +1,59 @@
+/* @import url(https://fonts.googleapis.com/css2?family=Open+Sans&family=Quicksand:wght@300;400;500;600;700&display=swap); */
+
+@import url(https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&family=Open+Sans&family=Quicksand:wght@300;400;500;600;700&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Tangerine:wght@700&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&display=swap);
+*{
+    /* font-family: 'IBM Plex Sans', sans-serif; */
+    font-family: 'Comfortaa', cursive;
+
+}
+
+h2{
+    font-weight: bolder;
+}
+
+h3{
+    font-weight: bolder;
+    text-decoration: underline;
+    text-decoration-color: #4567ff;
+    text-decoration-thickness: 5px;
+}
+
+.body{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.landing{
+    display: flex;
+    margin-top: 100px;
+    align-items: center;
+}
+
+.welcome-words{
+    max-width: 45vw;
+    padding-left: 10px;
+}
+
+
+#text{
+    font-size: 25px;
+}
+
+
+.welcome{
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 10px;
+    margin-top: 80px;
+}
+
+.learn{
+    text-align: center;
+}
+
+#learn-more{
+    background-color: #4567ff;
+    border: #4567ff;
+}
