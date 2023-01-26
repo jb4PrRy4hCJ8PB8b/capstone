@@ -1,1 +1,1 @@
-# capstone
+# CS 130 Capstone
