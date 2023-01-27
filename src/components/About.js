@@ -6,7 +6,6 @@ import dominoes from "../images/dominoes.png";
 
 const About = () => {
 return <div className="about-page">
-    <CollapsibleExample/>
     <div className="body"> 
     <h1> Our Mission</h1>
         <div className="info-block-2"> 

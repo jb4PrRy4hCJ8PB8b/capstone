@@ -6,7 +6,6 @@ import EventsCarousel from "./EventsCarousel";
 
 const Events = () => {
     return <div className="events-page">
-        <CollapsibleExample/>
         <div className="body"> 
         <div className="location-info">
             <h2> Event Locations</h2> 

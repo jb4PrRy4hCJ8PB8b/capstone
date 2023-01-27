@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import {
   Box,
   Container,
@@ -20,21 +21,27 @@ const Footer = () => {
       <Container>
         <Row>
         <Column>
-            
-            <FooterLink href="#/home">Home</FooterLink>
-        
+        <Link to={`/`}>
+          <FooterLink>Home</FooterLink>
+        </Link>
           </Column>
+          
           <Column>
-            
-            <FooterLink href="#/about">About</FooterLink>
-        
+          <Link to={`/about`}>
+            <FooterLink>About</FooterLink>
+          </Link>
           </Column>
-          <Column>
 
-            <FooterLink href="#/events">Events</FooterLink>
+          <Column>
+            <Link to="/events">
+              <FooterLink>Events</FooterLink>
+            </Link>
+           
           </Column>
           <Column>
-            <FooterLink href="#">Contact Us</FooterLink>
+            <Link to="/connect">
+            <FooterLink>Contact Us</FooterLink>
+            </Link>
           </Column>
     
         </Row>
