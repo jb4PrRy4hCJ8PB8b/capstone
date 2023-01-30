@@ -16,6 +16,7 @@ function CollapsibleExample() {
         <Navbar.Brand id="brand"> 
         <img
                 alt=""
+                id="logo"
                 src={handshake}
                 width="55"
                 height="50"

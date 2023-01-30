@@ -9,10 +9,22 @@
     color: white;
 }
 
+@media only screen and (max-width: 600px) {
+    #brand{
+        margin-left: 0px;
+        font-size: 17px;
+        color: white;
+    }
+
+    #logo{
+        width: 20%;
+        padding-bottom: 20px;
+    }
+}
+
 .link {
     padding-left: 20px;
     font-size: 20px;
-
     text-decoration: none;
     color: white;
 }

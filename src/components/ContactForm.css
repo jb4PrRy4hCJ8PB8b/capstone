@@ -4,6 +4,15 @@
     margin-top: 20px;
 }
 
+
+@media only screen and (max-width: 1000px) {
+    .contact{
+        margin-left: 50px;
+        margin-right: 50px;
+        margin-top: 20px;
+    }
+}
+
 .col{
     margin-top: 10px;
 }
